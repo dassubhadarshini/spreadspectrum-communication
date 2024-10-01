@@ -1,4 +1,4 @@
-Spread Spectrum Communication Project (SSC)
+# Spread Spectrum Communication Project (SSC)
 
 ## <span style="color: #2E8B57;">Overview</span>
 
